@@ -1,0 +1,12 @@
+C:\Apps\aaaTest\aaaTest\bin\Debug\netcoreapp3.0\aaaTest.exe
+C:\Apps\aaaTest\aaaTest\bin\Debug\netcoreapp3.0\aaaTest.deps.json
+C:\Apps\aaaTest\aaaTest\bin\Debug\netcoreapp3.0\aaaTest.runtimeconfig.json
+C:\Apps\aaaTest\aaaTest\bin\Debug\netcoreapp3.0\aaaTest.runtimeconfig.dev.json
+C:\Apps\aaaTest\aaaTest\bin\Debug\netcoreapp3.0\aaaTest.dll
+C:\Apps\aaaTest\aaaTest\bin\Debug\netcoreapp3.0\aaaTest.pdb
+C:\Apps\aaaTest\aaaTest\obj\Debug\netcoreapp3.0\aaaTest.csprojAssemblyReference.cache
+C:\Apps\aaaTest\aaaTest\obj\Debug\netcoreapp3.0\aaaTest.csproj.CoreCompileInputs.cache
+C:\Apps\aaaTest\aaaTest\obj\Debug\netcoreapp3.0\aaaTest.AssemblyInfoInputs.cache
+C:\Apps\aaaTest\aaaTest\obj\Debug\netcoreapp3.0\aaaTest.AssemblyInfo.cs
+C:\Apps\aaaTest\aaaTest\obj\Debug\netcoreapp3.0\aaaTest.dll
+C:\Apps\aaaTest\aaaTest\obj\Debug\netcoreapp3.0\aaaTest.pdb
