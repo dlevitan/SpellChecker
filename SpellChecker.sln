@@ -1,15 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26430.16
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellChecker.Console", "SpellChecker.Console\SpellChecker.Console.csproj", "{1B238401-836F-4A4B-915F-C53165875C57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpellChecker", "SpellChecker\SpellChecker.csproj", "{CA4C0963-0AA3-401E-9E9F-6DFF28F71FFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellChecker.Tests", "SpellChecker.Tests\SpellChecker.Tests.csproj", "{B03CFF67-21CD-4267-B86E-A2E4E0F2E8BD}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellChecker.Core", "SpellChecker.Core\SpellChecker.Core.csproj", "{D27FE80A-2C97-44E5-A224-3BB2595231E0}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellChecker.Contracts", "SpellChecker.Contracts\SpellChecker.Contracts.csproj", "{AD9BDB4C-EFAA-4F8B-B88F-6AFCDA561A6B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpellChecker.Tests", "SpellChecker.Tests\SpellChecker.Tests.csproj", "{C2EBAD9C-8C4C-4FB2-B206-1C616DF7BD2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,27 +13,19 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{1B238401-836F-4A4B-915F-C53165875C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{1B238401-836F-4A4B-915F-C53165875C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{1B238401-836F-4A4B-915F-C53165875C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{1B238401-836F-4A4B-915F-C53165875C57}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B03CFF67-21CD-4267-B86E-A2E4E0F2E8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B03CFF67-21CD-4267-B86E-A2E4E0F2E8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B03CFF67-21CD-4267-B86E-A2E4E0F2E8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B03CFF67-21CD-4267-B86E-A2E4E0F2E8BD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D27FE80A-2C97-44E5-A224-3BB2595231E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D27FE80A-2C97-44E5-A224-3BB2595231E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D27FE80A-2C97-44E5-A224-3BB2595231E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D27FE80A-2C97-44E5-A224-3BB2595231E0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{AD9BDB4C-EFAA-4F8B-B88F-6AFCDA561A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{AD9BDB4C-EFAA-4F8B-B88F-6AFCDA561A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{AD9BDB4C-EFAA-4F8B-B88F-6AFCDA561A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{AD9BDB4C-EFAA-4F8B-B88F-6AFCDA561A6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA4C0963-0AA3-401E-9E9F-6DFF28F71FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA4C0963-0AA3-401E-9E9F-6DFF28F71FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA4C0963-0AA3-401E-9E9F-6DFF28F71FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA4C0963-0AA3-401E-9E9F-6DFF28F71FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2EBAD9C-8C4C-4FB2-B206-1C616DF7BD2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2EBAD9C-8C4C-4FB2-B206-1C616DF7BD2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2EBAD9C-8C4C-4FB2-B206-1C616DF7BD2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2EBAD9C-8C4C-4FB2-B206-1C616DF7BD2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F7827465-7BFA-4F12-9669-CBF8B082CC71}
+		SolutionGuid = {1FA761F8-8E36-452E-A3C1-812B45B405FF}
 	EndGlobalSection
 EndGlobal
